@@ -1,0 +1,8 @@
+shared-data/
+learning/beat-detector/previews/
+learning/beat-detector/comparisons/
+learning/beat-detector/**/checkpoints/
+__pycache__/
+*.pyc
+
+tmp/
