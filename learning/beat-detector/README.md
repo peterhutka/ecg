@@ -14,6 +14,8 @@ Build a simple, realistic first ECG model that takes a fixed window of resampled
 
 - `01-beat-position-regression/`
 - `02-beat-position-regression-stable/`
+- `03-beat-position-regression-temporal-map/`
+- `04-beat-position-regression-baseline-no-pool/`
 
 ## Shared utilities
 

@@ -1,0 +1,5 @@
+*
+!.gitignore
+!preprocessed/
+preprocessed/*
+!preprocessed/.gitkeep
